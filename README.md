@@ -1,2 +1,2 @@
 # bitsyhost
-Files for BitsyHost.pl
+The website for https://bitsyhost.pl
